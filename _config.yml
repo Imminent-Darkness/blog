@@ -3,11 +3,11 @@
 #
 
 # Name of your site (displayed in the header)
-name: Hacker How-to  
+name: Imminent Darkness Homepage 
 
 
 # Short bio or description (displayed in the header)
-description: This is a blog about cyber security, privacy techniques, and a necessary amount of physical security.  
+description: Security Researcher who also enjoys developing security tools. I also have a [blog]() about cyber security, privacy techniques, and a necessary amount of physical security.  
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
